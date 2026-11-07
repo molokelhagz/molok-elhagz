@@ -1,1 +1,6 @@
-{"versionCode": 3, "versionName": "3.0", "notes": "ميزات جديدة 👑"}
+{
+  "versionCode": 4,
+  "versionName": "4.0",
+  "forceUpdate": true,
+  "updateUrl": "رابط_تحميل_التحديث_الجديد"
+}
